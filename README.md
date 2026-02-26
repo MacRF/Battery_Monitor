@@ -1,5 +1,5 @@
 /*
- * Battery Monitor WT32-ETH01 - 3-Point Calibration
+ * Battery Monitor WT32-ETH01 - 3-Point Calibration MAX 13.2 Volt PERICOLO GPIO >3.3V
  * Con calibrazione a 3 punti per correggere non-linearità del partitore
  */
 
